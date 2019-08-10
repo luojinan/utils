@@ -1,6 +1,6 @@
 ### 一行代码去重数组
 
-![](https://luojinan.github.io//post-images/1565402093069.png)
+![](https://luojinan.github.io//post-images/1565402943271.png)
 
 > `new Set()`返回一个set对象，把它展开并放入空数组中，才能形成一个数组
 
