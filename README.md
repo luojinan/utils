@@ -2,3 +2,4 @@
 
 - **[一行代码数组去重](https://github.com/luojinan/utils/blob/master/ArrayDeduplication/set.md)**
 - **[emoji转码](https://github.com/luojinan/utils/blob/master/emoji/readme.md)**
+- **[Throttle节流工具函数](https://github.com/luojinan/utils/blob/master/Throttle/readme.md)**
