@@ -13,7 +13,7 @@
   import Debounce from '@/common/libs/debounce'
   let debounce = Debounce()
 ```
- 2、**在要节流的方法处使用**(传入回调函数外，还可传入回调函数需要的参数，见源码)
+ 2、**在防抖的方法处使用**(传入回调函数外，还可传入回调函数需要的参数，见源码)
  ```js
   changePhone (e) {
     debounce(() => {
