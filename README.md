@@ -5,3 +5,4 @@
 - **[Throttle节流工具函数](https://github.com/luojinan/utils/blob/master/Throttle/readme.md)**
 - **[Debounce防抖工具函数](https://github.com/luojinan/utils/blob/master/Debounce/readme.md)**
 - **[短信倒计时](https://github.com/luojinan/utils/blob/master/smsCountDown/smsCountDown.md)**
+- **[本地缓存方法封装](https://github.com/luojinan/utils/blob/master/myStorage/readme.md)**
