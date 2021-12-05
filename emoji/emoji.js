@@ -16,6 +16,8 @@ const utf16toEntities = function(str) {
   })
 }
 
+// test vscode online
+
 //将编码后的八进制的emoji表情重新解码成十六进制的表情字符
 const entitiesToUtf16 = function(str) {
   str = decodeXML(str)  // 数据库返回特殊字符加上了'amp;' 做一遍转义即可
